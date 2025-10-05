@@ -1,6 +1,6 @@
 # NASA Space Dashboard
 
-**Interactive NASA Website for NASA Space Apps Challenge**
+**Interactive NASA Website for NASA Space Apps Challenge 2025**
 
 Explore the wonders of space with this fully interactive dashboard! This project showcases real NASA data in a fun and educational way.
 
